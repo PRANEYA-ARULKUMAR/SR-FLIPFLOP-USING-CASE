@@ -42,6 +42,7 @@ DEVELOPED BY : A PRANEYA
 REGISTER NO  :24900343
 
 ```
+```
 module exp6de(s,r,clk,q,qbar);
 input s,r,clk;
 output reg q;
